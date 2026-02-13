@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect width="240" height="80" rx="8" fill="#0f172a" />
+	<text x="20" y="52" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="40" fill="#ffb020">Akash</text>
+	<circle cx="200" cy="40" r="18" fill="#ffb020" opacity="0.15" />
+</svg>
