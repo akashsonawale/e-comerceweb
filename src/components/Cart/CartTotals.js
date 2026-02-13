@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 
 export default function CartTotals({value}) {
-    const {cartSubTotal, cartTax, cartTotal,clearCart, cart} = value;
+    const {cartSubTotal, cartTax, cartTotal, clearCart} = value;
     return (
        <div className="container">
            <div className="row">
